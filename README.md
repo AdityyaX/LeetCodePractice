@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -15,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
