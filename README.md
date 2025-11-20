@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -35,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
