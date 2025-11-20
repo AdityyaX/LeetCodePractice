@@ -61,4 +61,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AdityyaX/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AdityyaX/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AdityyaX/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AdityyaX/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
