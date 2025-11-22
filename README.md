@@ -57,11 +57,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityyaX/LeetCodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AdityyaX/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AdityyaX/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
@@ -75,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AdityyaX/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
