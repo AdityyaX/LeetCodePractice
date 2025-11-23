@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0142-linked-list-cycle-ii) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -109,5 +111,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AdityyaX/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
