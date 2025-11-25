@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdityyaX/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0141-linked-list-cycle) |
@@ -112,11 +113,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdityyaX/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AdityyaX/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdityyaX/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
 <!---LeetCode Topics End-->
