@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AdityyaX/LeetCodePractice/tree/master/0133-clone-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
