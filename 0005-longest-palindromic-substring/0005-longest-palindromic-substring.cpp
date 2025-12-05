@@ -1,22 +1,22 @@
 class Solution {
 public:
-    bool checkPal(string& s, int low, int high) {
-        while (low < high) {
-            if (s[low] != s[high])
-                return false;
-            low++;
-            high--;
-        }
-        return true;
-    }
+/*
+so here dp[][]represent is string [i][j] is palindrome or not
 
+*/
     string longestPalindrome(string s) {
         int maxLen = 0, start = 0;
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = i; j < s.length(); j++) {
-                if (checkPal(s, i, j) && (j - i + 1) > maxLen) {
-                    start = i;
-                    maxLen = j - i + 1;
+        int n = s.size();
+        vector<vector<bool>> dp(n, vector<bool>(n, false));
+
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
+                if (s[i] == s[j] && (j - i <= 1 || dp[i + 1][j - 1] == 1)) {
+                    dp[i][j] = 1;
+                    if (maxLen < j - i + 1) {
+                        maxLen = j - i + 1;
+                        start = i;
+                    }
                 }
             }
         }
