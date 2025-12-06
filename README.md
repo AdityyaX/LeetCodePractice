@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/AdityyaX/LeetCodePractice/tree/master/0198-house-robber) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/AdityyaX/LeetCodePractice/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AdityyaX/LeetCodePractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0213-house-robber-ii) |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AdityyaX/LeetCodePractice/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AdityyaX/LeetCodePractice/tree/master/0146-lru-cache) |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AdityyaX/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/AdityyaX/LeetCodePractice/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AdityyaX/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -190,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
 ## Graph
 |  |
@@ -199,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0190-reverse-bits) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
