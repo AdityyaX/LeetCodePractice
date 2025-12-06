@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/AdityyaX/LeetCodePractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/AdityyaX/LeetCodePractice/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AdityyaX/LeetCodePractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/AdityyaX/LeetCodePractice/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/AdityyaX/LeetCodePractice/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/AdityyaX/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/AdityyaX/LeetCodePractice/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
