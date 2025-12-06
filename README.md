@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AdityyaX/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/AdityyaX/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AdityyaX/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/AdityyaX/LeetCodePractice/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityyaX/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/AdityyaX/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AdityyaX/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityyaX/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AdityyaX/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/AdityyaX/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/AdityyaX/LeetCodePractice/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
