@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdityyaX/LeetCodePractice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Doubly-Linked List
 |  |
 | ------- |
