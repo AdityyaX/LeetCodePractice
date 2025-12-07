@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AdityyaX/LeetCodePractice/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/AdityyaX/LeetCodePractice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AdityyaX/LeetCodePractice/tree/master/0706-design-hashmap) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AdityyaX/LeetCodePractice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/AdityyaX/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AdityyaX/LeetCodePractice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityyaX/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/AdityyaX/LeetCodePractice/tree/master/0705-design-hashset) |
@@ -258,4 +262,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
