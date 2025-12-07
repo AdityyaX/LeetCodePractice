@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AdityyaX/LeetCodePractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/AdityyaX/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/AdityyaX/LeetCodePractice/tree/master/0322-coin-change) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AdityyaX/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
