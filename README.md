@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/AdityyaX/LeetCodePractice/tree/master/3583-count-special-triplets) |
 ## Divide and Conquer
 |  |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdityyaX/LeetCodePractice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/AdityyaX/LeetCodePractice/tree/master/1925-count-square-sum-triples) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -304,4 +306,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/AdityyaX/LeetCodePractice/tree/master/1925-count-square-sum-triples) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
