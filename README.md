@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
+| [3531-count-covered-buildings](https://github.com/AdityyaX/LeetCodePractice/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/AdityyaX/LeetCodePractice/tree/master/3583-count-special-triplets) |
 ## Divide and Conquer
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AdityyaX/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [3531-count-covered-buildings](https://github.com/AdityyaX/LeetCodePractice/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
+| [3531-count-covered-buildings](https://github.com/AdityyaX/LeetCodePractice/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/AdityyaX/LeetCodePractice/tree/master/3583-count-special-triplets) |
 ## Union Find
 |  |
