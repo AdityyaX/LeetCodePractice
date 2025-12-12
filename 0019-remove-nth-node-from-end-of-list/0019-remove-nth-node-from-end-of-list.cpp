@@ -12,6 +12,9 @@
 
 */
 class Solution {
+    /*here approach is distance between fast and slow pointer shpuld ne k fso
+     * when fast reach last then second slow is at k from last and we can delete
+     * it*/
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode* dummy = new ListNode(0, head);
