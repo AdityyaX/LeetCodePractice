@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/AdityyaX/LeetCodePractice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AdityyaX/LeetCodePractice/tree/master/0706-design-hashmap) |
 ## Counting
@@ -364,4 +368,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityyaX/LeetCodePractice/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
