@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/AdityyaX/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0226-invert-binary-tree) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/AdityyaX/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
