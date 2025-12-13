@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/AdityyaX/LeetCodePractice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/AdityyaX/LeetCodePractice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AdityyaX/LeetCodePractice/tree/master/0706-design-hashmap) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 ## Hash Function
 |  |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 ## Enumeration
 |  |
 | ------- |
