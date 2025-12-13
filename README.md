@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/AdityyaX/LeetCodePractice/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AdityyaX/LeetCodePractice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/AdityyaX/LeetCodePractice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AdityyaX/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0055-jump-game) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/AdityyaX/LeetCodePractice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0189-rotate-array) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdityyaX/LeetCodePractice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/AdityyaX/LeetCodePractice/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 ## Enumeration
 |  |
