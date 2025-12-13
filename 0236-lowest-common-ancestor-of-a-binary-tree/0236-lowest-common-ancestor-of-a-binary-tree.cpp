@@ -7,15 +7,20 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+/*
+here approach is simple what we do is check for both left and right subtree if
+we have value then return them*/
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if (!root || p == root || q == root)
+        if (root == NULL || p == root || q == root)
             return root;
-        TreeNode* left = lowestCommonAncestor(root->left, p, q);
-        TreeNode* right = lowestCommonAncestor(root->right, p, q);
-        if (left && right)
+
+        TreeNode* leftTree = lowestCommonAncestor(root->left, p, q);
+        TreeNode* rightTree = lowestCommonAncestor(root->right, p, q);
+        if (leftTree && rightTree)
             return root;
-        return left ? left : right;
+
+        return leftTree ? leftTree : rightTree;
     }
 };
