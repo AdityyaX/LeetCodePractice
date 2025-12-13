@@ -1,6 +1,8 @@
 class Solution {
 public:
-    /*this is done by backtracking*/
+    /*this is done by backtracking
+    here thing i was missing is sorting the nums else duplicate removal will no
+    work*/
     void helper(vector<int> nums, vector<int> current, set<vector<int>>& st,
                 int i) {
 
