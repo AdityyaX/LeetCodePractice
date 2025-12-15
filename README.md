@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AdityyaX/LeetCodePractice/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/AdityyaX/LeetCodePractice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0189-rotate-array) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AdityyaX/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AdityyaX/LeetCodePractice/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/AdityyaX/LeetCodePractice/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/AdityyaX/LeetCodePractice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AdityyaX/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AdityyaX/LeetCodePractice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0136-single-number) |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/AdityyaX/LeetCodePractice/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 ## Hash Function
