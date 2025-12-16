@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/AdityyaX/LeetCodePractice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AdityyaX/LeetCodePractice/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AdityyaX/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
 | [3531-count-covered-buildings](https://github.com/AdityyaX/LeetCodePractice/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/AdityyaX/LeetCodePractice/tree/master/3606-coupon-code-validator) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/AdityyaX/LeetCodePractice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AdityyaX/LeetCodePractice/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/AdityyaX/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 ## Linked List
 |  |
@@ -390,11 +394,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [3583-count-special-triplets](https://github.com/AdityyaX/LeetCodePractice/tree/master/3583-count-special-triplets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
