@@ -9,7 +9,6 @@ public:
             result.push_back(subArray);
             return;
         }
-
         for (int i = start; i < candidates.size(); i++) {
             if (i > start && candidates[i] == candidates[i - 1])
                 continue;
