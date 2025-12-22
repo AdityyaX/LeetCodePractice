@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/AdityyaX/LeetCodePractice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0473-matchsticks-to-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/0473-matchsticks-to-square) |
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AdityyaX/LeetCodePractice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0338-counting-bits) |
+| [0473-matchsticks-to-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/AdityyaX/LeetCodePractice/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/AdityyaX/LeetCodePractice/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/0473-matchsticks-to-square) |
 ## Trie
 |  |
 | ------- |
@@ -456,4 +459,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/AdityyaX/LeetCodePractice/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/0473-matchsticks-to-square) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
