@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/AdityyaX/LeetCodePractice/tree/master/0401-binary-watch) |
 ## Trie
 |  |
 | ------- |
@@ -451,4 +452,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/AdityyaX/LeetCodePractice/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
