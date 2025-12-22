@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
 | [3531-count-covered-buildings](https://github.com/AdityyaX/LeetCodePractice/tree/master/3531-count-covered-buildings) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AdityyaX/LeetCodePractice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/AdityyaX/LeetCodePractice/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/AdityyaX/LeetCodePractice/tree/master/3606-coupon-code-validator) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/AdityyaX/LeetCodePractice/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AdityyaX/LeetCodePractice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Sorting
 |  |
 | ------- |
