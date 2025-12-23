@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
+| [1219-path-with-maximum-gold](https://github.com/AdityyaX/LeetCodePractice/tree/master/1219-path-with-maximum-gold) |
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
+| [1219-path-with-maximum-gold](https://github.com/AdityyaX/LeetCodePractice/tree/master/1219-path-with-maximum-gold) |
 ## Enumeration
 |  |
 | ------- |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/AdityyaX/LeetCodePractice/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0784-letter-case-permutation) |
+| [1219-path-with-maximum-gold](https://github.com/AdityyaX/LeetCodePractice/tree/master/1219-path-with-maximum-gold) |
 ## Bitmask
 |  |
 | ------- |
