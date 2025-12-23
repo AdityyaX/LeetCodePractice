@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AdityyaX/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityyaX/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0300-longest-increasing-subsequence) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AdityyaX/LeetCodePractice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/AdityyaX/LeetCodePractice/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/AdityyaX/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0189-rotate-array) |
