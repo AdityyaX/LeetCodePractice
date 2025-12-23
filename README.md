@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityyaX/LeetCodePractice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityyaX/LeetCodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AdityyaX/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AdityyaX/LeetCodePractice/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/AdityyaX/LeetCodePractice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AdityyaX/LeetCodePractice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AdityyaX/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AdityyaX/LeetCodePractice/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AdityyaX/LeetCodePractice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/AdityyaX/LeetCodePractice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
@@ -472,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AdityyaX/LeetCodePractice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityyaX/LeetCodePractice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/AdityyaX/LeetCodePractice/tree/master/0401-binary-watch) |
