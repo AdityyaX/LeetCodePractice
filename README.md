@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/AdityyaX/LeetCodePractice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0227-basic-calculator-ii) |
+| [0292-nim-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
 | [0470-implement-rand10-using-rand7](https://github.com/AdityyaX/LeetCodePractice/tree/master/0470-implement-rand10-using-rand7) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0292-nim-game) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
@@ -545,4 +547,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/AdityyaX/LeetCodePractice/tree/master/0470-implement-rand10-using-rand7) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
