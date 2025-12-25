@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/AdityyaX/LeetCodePractice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AdityyaX/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AdityyaX/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/AdityyaX/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityyaX/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AdityyaX/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/AdityyaX/LeetCodePractice/tree/master/0455-assign-cookies) |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/AdityyaX/LeetCodePractice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0227-basic-calculator-ii) |
 | [0292-nim-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0292-nim-game) |
