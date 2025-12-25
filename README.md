@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/AdityyaX/LeetCodePractice/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
+| [1029-two-city-scheduling](https://github.com/AdityyaX/LeetCodePractice/tree/master/1029-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
 | [1219-path-with-maximum-gold](https://github.com/AdityyaX/LeetCodePractice/tree/master/1219-path-with-maximum-gold) |
 | [1288-remove-covered-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/1288-remove-covered-intervals) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AdityyaX/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/AdityyaX/LeetCodePractice/tree/master/0881-boats-to-save-people) |
+| [1029-two-city-scheduling](https://github.com/AdityyaX/LeetCodePractice/tree/master/1029-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
 | [1288-remove-covered-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/1288-remove-covered-intervals) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityyaX/LeetCodePractice/tree/master/3074-apple-redistribution-into-boxes) |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/AdityyaX/LeetCodePractice/tree/master/0881-boats-to-save-people) |
+| [1029-two-city-scheduling](https://github.com/AdityyaX/LeetCodePractice/tree/master/1029-two-city-scheduling) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityyaX/LeetCodePractice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityyaX/LeetCodePractice/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Linked List
