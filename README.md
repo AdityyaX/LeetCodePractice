@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/AdityyaX/LeetCodePractice/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/AdityyaX/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/AdityyaX/LeetCodePractice/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityyaX/LeetCodePractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AdityyaX/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
+| [0881-boats-to-save-people](https://github.com/AdityyaX/LeetCodePractice/tree/master/0881-boats-to-save-people) |
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
 | [1288-remove-covered-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/1288-remove-covered-intervals) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityyaX/LeetCodePractice/tree/master/3074-apple-redistribution-into-boxes) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AdityyaX/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/AdityyaX/LeetCodePractice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/AdityyaX/LeetCodePractice/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/AdityyaX/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -232,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AdityyaX/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/AdityyaX/LeetCodePractice/tree/master/0881-boats-to-save-people) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityyaX/LeetCodePractice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Linked List
 |  |
