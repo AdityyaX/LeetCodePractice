@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/1288-remove-covered-intervals) |
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityyaX/LeetCodePractice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityyaX/LeetCodePractice/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
+| [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
 | [3531-count-covered-buildings](https://github.com/AdityyaX/LeetCodePractice/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/AdityyaX/LeetCodePractice/tree/master/3583-count-special-triplets) |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdityyaX/LeetCodePractice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/AdityyaX/LeetCodePractice/tree/master/1925-count-square-sum-triples) |
+| [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Doubly-Linked List
 |  |
@@ -471,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
+| [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
 | [3583-count-special-triplets](https://github.com/AdityyaX/LeetCodePractice/tree/master/3583-count-special-triplets) |
 ## Heap (Priority Queue)
 |  |
