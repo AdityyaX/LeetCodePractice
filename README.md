@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AdityyaX/LeetCodePractice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search
 |  |
 | ------- |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0784-letter-case-permutation) |
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
 | [1768-merge-strings-alternately](https://github.com/AdityyaX/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AdityyaX/LeetCodePractice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3606-coupon-code-validator](https://github.com/AdityyaX/LeetCodePractice/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
