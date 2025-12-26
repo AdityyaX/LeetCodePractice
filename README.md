@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/AdityyaX/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/AdityyaX/LeetCodePractice/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AdityyaX/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/AdityyaX/LeetCodePractice/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/AdityyaX/LeetCodePractice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0227-basic-calculator-ii) |
 | [0292-nim-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/AdityyaX/LeetCodePractice/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
 | [0470-implement-rand10-using-rand7](https://github.com/AdityyaX/LeetCodePractice/tree/master/0470-implement-rand10-using-rand7) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
