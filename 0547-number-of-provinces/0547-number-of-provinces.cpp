@@ -1,32 +1,32 @@
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>& adjLs, vector<int>& isVisited) {
-        isVisited[node] = 1;
-        for (auto adj : adjLs[node]) {
-            if (!isVisited[adj]) {
-                dfs(adj, adjLs, isVisited);
+    void dfs(vector<vector<int>> adjLs, vector<bool>& visited, int i) {
+        visited[i] = true;
+        for (auto neighbour : adjLs[i]) {
+            if (!visited[neighbour]) {
+                dfs(adjLs, visited, neighbour);
             }
         }
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int V = isConnected.size();
-        vector<vector<int>> adjLs(V);
-        for (int i = 0; i < V; i++) {
-            for (int j = 0; j < V; j++) {
+        int n = isConnected.size();
+        int count = 0;
+        vector<bool> visited(n, false);
+        vector<vector<int>> adjLs(n);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
                 if (isConnected[i][j] == 1 && i != j) {
                     adjLs[i].push_back(j);
                     adjLs[j].push_back(i);
                 }
             }
         }
-        vector<int> isVisited(V, 0);
-        int cnt = 0;
-        for (int i = 0; i < V; i++) {
-            if (!isVisited[i]) {
-                cnt++;
-                dfs(i, adjLs, isVisited);
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                dfs(adjLs, visited, i);
+                count++;
             }
         }
-        return cnt;
+        return count;
     }
 };
