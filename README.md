@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/AdityyaX/LeetCodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/AdityyaX/LeetCodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/AdityyaX/LeetCodePractice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/AdityyaX/LeetCodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Memoization
 |  |
 | ------- |
@@ -436,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/AdityyaX/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/AdityyaX/LeetCodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Bit Manipulation
 |  |
 | ------- |
