@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityyaX/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/AdityyaX/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AdityyaX/LeetCodePractice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AdityyaX/LeetCodePractice/tree/master/0139-word-break) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/AdityyaX/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityyaX/LeetCodePractice/tree/master/2685-count-the-number-of-complete-components) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/AdityyaX/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AdityyaX/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityyaX/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
@@ -427,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AdityyaX/LeetCodePractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/AdityyaX/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AdityyaX/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityyaX/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
@@ -512,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/AdityyaX/LeetCodePractice/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/AdityyaX/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
