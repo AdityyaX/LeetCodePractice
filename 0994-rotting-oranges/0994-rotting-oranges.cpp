@@ -17,7 +17,7 @@ public:
             }
         }
         while (!q.empty()) {
-            int size = q.size(); // number of rotten oranges this minute
+            int size = q.size();
             bool rotted = false;
 
             for (int k = 0; k < size; k++) {
