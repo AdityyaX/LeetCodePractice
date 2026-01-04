@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-path-with-maximum-gold](https://github.com/AdityyaX/LeetCodePractice/tree/master/1219-path-with-maximum-gold) |
 | [1288-remove-covered-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/AdityyaX/LeetCodePractice/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0470-implement-rand10-using-rand7](https://github.com/AdityyaX/LeetCodePractice/tree/master/0470-implement-rand10-using-rand7) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/AdityyaX/LeetCodePractice/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdityyaX/LeetCodePractice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/AdityyaX/LeetCodePractice/tree/master/1925-count-square-sum-triples) |
 | [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
