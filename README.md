@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityyaX/LeetCodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/AdityyaX/LeetCodePractice/tree/master/0994-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityyaX/LeetCodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Memoization
 |  |
