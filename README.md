@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/AdityyaX/LeetCodePractice/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/AdityyaX/LeetCodePractice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1590-make-sum-divisible-by-p](https://github.com/AdityyaX/LeetCodePractice/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/1975-maximum-matrix-sum) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AdityyaX/LeetCodePractice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/AdityyaX/LeetCodePractice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AdityyaX/LeetCodePractice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Sorting
 |  |
