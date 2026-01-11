@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AdityyaX/LeetCodePractice/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AdityyaX/LeetCodePractice/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityyaX/LeetCodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AdityyaX/LeetCodePractice/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityyaX/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityyaX/LeetCodePractice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/AdityyaX/LeetCodePractice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/AdityyaX/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
@@ -534,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/AdityyaX/LeetCodePractice/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/AdityyaX/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
@@ -560,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityyaX/LeetCodePractice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/AdityyaX/LeetCodePractice/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
