@@ -635,4 +635,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/3454-separate-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
