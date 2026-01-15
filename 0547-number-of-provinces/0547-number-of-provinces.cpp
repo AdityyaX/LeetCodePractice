@@ -1,10 +1,10 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>> adjLs, vector<bool>& visited, int i) {
+    void dfs(vector<vector<int>>& adjLs, vector<bool>& visited, int i) {
         visited[i] = true;
-        for (auto neighbour : adjLs[i]) {
-            if (!visited[neighbour]) {
-                dfs(adjLs, visited, neighbour);
+        for (auto neigh : adjLs[i]) {
+            if (!visited[neigh]) {
+                dfs(adjLs, visited, neigh);
             }
         }
     }
@@ -17,7 +17,6 @@ public:
             for (int j = 0; j < n; j++) {
                 if (isConnected[i][j] == 1 && i != j) {
                     adjLs[i].push_back(j);
-                    adjLs[j].push_back(i);
                 }
             }
         }
