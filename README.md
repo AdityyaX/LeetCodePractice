@@ -639,4 +639,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
