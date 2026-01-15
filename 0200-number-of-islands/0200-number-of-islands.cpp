@@ -1,31 +1,30 @@
 class Solution {
 public:
-    /*
-    here my approach should be go to every index and check if it is 1 and
-    increase number of osland traverse then then do for all indexes where i j
-    =1*/
-    void dfs(int i, int j, vector<vector<char>>& grid) {
-        if (i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size() ||
-            grid[i][j] == '0')
+    void dfs(vector<vector<char>>& grid, vector<vector<int>>& visited, int i,
+             int j, int n, int m) {
+        if (i < 0 || i >= n || j < 0 || j >= m || grid[i][j] == '0' ||
+            visited[i][j] == 1) {
             return;
-        grid[i][j] = '0';
-        dfs(i + 1, j, grid);
-        dfs(i - 1, j, grid);
-        dfs(i, j + 1, grid);
-        dfs(i, j - 1, grid);
+        }
+        visited[i][j] = 1;
+        dfs(grid, visited, i + 1, j, n, m);
+        dfs(grid, visited, i - 1, j, n, m);
+        dfs(grid, visited, i, j + 1, n, m);
+        dfs(grid, visited, i, j - 1, n, m);
     }
     int numIslands(vector<vector<char>>& grid) {
-        int numberOfIslands = 0;
         int n = grid.size();
         int m = grid[0].size();
+        int count = 0;
+        vector<vector<int>> visited(n, vector<int>(m, 0));
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (grid[i][j] == '1') {
-                    numberOfIslands++;
-                    dfs(i, j, grid);
+                if (!visited[i][j] && grid[i][j] == '1') {
+                    dfs(grid, visited, i, j, n, m);
+                    count++;
                 }
             }
         }
-        return numberOfIslands;
+        return count;
     }
 };
