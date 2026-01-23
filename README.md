@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/AdityyaX/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdityyaX/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0300-longest-increasing-subsequence) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AdityyaX/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AdityyaX/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/AdityyaX/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/AdityyaX/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AdityyaX/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityyaX/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
