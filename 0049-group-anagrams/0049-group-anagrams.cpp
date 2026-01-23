@@ -1,18 +1,15 @@
 class Solution {
-    /*
-    here my intution is lets group string to an array by sorting them in
-    hash map and return the  hashmap.second*/
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        unordered_map<string, vector<string>> anagram;
+        unordered_map<string, vector<string>> mpp;
         vector<vector<string>> result;
         for (string str : strs) {
-            string sortedString = str;
-            sort(sortedString.begin(), sortedString.end());
-            anagram[sortedString].push_back(str);
+            string sortedStr = str;
+            sort(sortedStr.begin(), sortedStr.end());
+            mpp[sortedStr].push_back(str);
         }
-        for (auto& arr : anagram) {
-            result.push_back(arr.second);
+        for (auto mp : mpp) {
+            result.push_back(mp.second);
         }
         return result;
     }
