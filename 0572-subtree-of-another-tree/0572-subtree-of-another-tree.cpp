@@ -11,7 +11,7 @@
  * };
  */
 class Solution {
-private:
+public:
     bool isSameTree(TreeNode* root, TreeNode* subRoot) {
         if (!root && !subRoot)
             return true;
@@ -19,21 +19,16 @@ private:
             return false;
         if (root->val != subRoot->val)
             return false;
-
         return isSameTree(root->left, subRoot->left) &&
                isSameTree(root->right, subRoot->right);
     }
-
-public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if (!root)
             return false;
         if (!subRoot)
             return true;
-
         if (isSameTree(root, subRoot))
             return true;
-
         return isSubtree(root->left, subRoot) ||
                isSubtree(root->right, subRoot);
     }
