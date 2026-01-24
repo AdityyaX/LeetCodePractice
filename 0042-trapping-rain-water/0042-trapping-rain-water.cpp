@@ -1,33 +1,22 @@
 class Solution {
 public:
-    /*
-    here approach for this can be for every index check on left side and right
-    side find max on both side min(maxonleft,maxonright)-height[i]
-    here we take leftMax=height[i] else so that atleast it will be min value
-    */
     int trap(vector<int>& height) {
-        int n = height.size();
-        if (n == 0) {
-            return 0;
-        }
-
-        vector<int> leftMax(n);
-        vector<int> rightMax(n);
-
-        leftMax[0] = height[0];
-        for (int i = 1; i < n; i++) {
-            leftMax[i] = max(leftMax[i - 1], height[i]);
-        }
-
-        rightMax[n - 1] = height[n - 1];
-        for (int i = n - 2; i >= 0; i--) {
-            rightMax[i] = max(rightMax[i + 1], height[i]);
-        }
-
         int res = 0;
-        for (int i = 0; i < n; i++) {
-            res += min(leftMax[i], rightMax[i]) - height[i];
+        int n = height.size();
+        vector<int> leftMax(n, 0);
+        vector<int> rightMax(n, 0);
+        leftMax[0] = height[0];
+        for (int j = 1; j < n; j++) {
+            leftMax[j] = max(leftMax[j - 1], height[j]);
         }
+        rightMax[n - 1] = height[n - 1];
+        for (int k = n - 2; k >= 0; k--) {
+            rightMax[k] = max(rightMax[k + 1], height[k]);
+        }
+        for (int m = 0; m < n; m++) {
+            res += min(leftMax[m], rightMax[m]) - height[m];
+        }
+
         return res;
     }
 };
