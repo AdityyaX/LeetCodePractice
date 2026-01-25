@@ -10,22 +10,18 @@
  * right(right) {}
  * };
  */
-
-// here approach is BST stores element in sorted order so first traverse and
-// store in an array and then return k-1 index
-
-void inorder(TreeNode* root, vector<int>& arr) {
-    if (root == NULL)
-        return;
-    inorder(root->left, arr);
-    arr.push_back(root->val);
-    inorder(root->right, arr);
-}
 class Solution {
 public:
+    void helper(TreeNode* root, vector<int>& arr) {
+        if (!root)
+            return;
+        helper(root->left, arr);
+        arr.push_back(root->val);
+        helper(root->right, arr);
+    }
     int kthSmallest(TreeNode* root, int k) {
         vector<int> arr;
-        inorder(root, arr);
+        helper(root, arr);
         return arr[k - 1];
     }
 };
