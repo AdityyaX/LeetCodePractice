@@ -8,27 +8,27 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- /*STORE ALL VALUES IN VECTOR FIRST ADD J TO I THEN I++ AND THEN ADD J TO ITS BACK
- */
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        vector<ListNode*> list;
-        ListNode* curr = head;
-        while (curr) {
-            list.push_back(curr);
-            curr = curr->next;
+        ListNode* temp = head;
+        vector<ListNode*> res;
+        while (temp) {
+            res.push_back(temp);
+            temp = temp->next;
         }
+        ListNode* newNode = NULL;
         int i = 0;
-        int j = list.size() - 1;
-        while (i < j) {
-            list[i]->next = list[j];
+        int n = res.size() - 1;
+        while (i < n) {
+            res[i]->next = res[n];
             i++;
-            if (i >= j)
+            if (i >= n) {
                 break;
-            list[j]->next = list[i];
-            j--;
+            }
+            res[n]->next = res[i];
+            n--;
         }
-        list[i]->next = NULL;
+        res[i]->next = NULL;
     }
 };
