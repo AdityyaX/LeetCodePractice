@@ -8,8 +8,8 @@ public:
         if (st.empty()) {
             minimum = val;
         } else {
-            int topMin = st.top().second;
-            minimum = min(topMin, val);
+            int topValMin = st.top().second;
+            minimum = min(val, st.top().second);
         }
         st.push({val, minimum});
     }
