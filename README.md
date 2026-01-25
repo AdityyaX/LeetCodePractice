@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/AdityyaX/LeetCodePractice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/AdityyaX/LeetCodePractice/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/AdityyaX/LeetCodePractice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/AdityyaX/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0227-basic-calculator-ii) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AdityyaX/LeetCodePractice/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/AdityyaX/LeetCodePractice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AdityyaX/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
