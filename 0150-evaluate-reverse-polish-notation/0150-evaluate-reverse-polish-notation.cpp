@@ -1,9 +1,6 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        /*
-        if operand take out value from stack and puch new value if it is a
-        number then push to stack*/
         stack<int> st;
         for (string& token : tokens) {
             if (token == "+" || token == "-" || token == "*" || token == "/") {
@@ -11,23 +8,18 @@ public:
                 st.pop();
                 int b = st.top();
                 st.pop();
-                if (token == "+") {
-                    st.push(a + b);
-                }
-                if (token == "-") {
+                if (token == "+")
+                    st.push(b + a);
+                else if (token == "-")
                     st.push(b - a);
-                }
-                if (token == "*") {
-                    st.push(a * b);
-                }
-                if (token == "/") {
+                else if (token == "*")
+                    st.push(b * a);
+                else if (token == "/")
                     st.push(b / a);
-                }
             } else {
                 st.push(stoi(token));
             }
         }
-
         return st.top();
     }
 };
