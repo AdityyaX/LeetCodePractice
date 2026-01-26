@@ -1,16 +1,12 @@
 class Solution {
 public:
-    // here approach is take four pointer and utilize rhe for traversal where i
-    // got stuck was Traversing again would cause duplicate elements
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int m = matrix.size();
         vector<int> result;
-        int n = matrix[0].size();
-        int left = 0;
-        int right = n - 1;
         int top = 0;
-        int bottom = m - 1;
-        while (left <= right && top <= bottom) {
+        int left = 0;
+        int right = matrix[0].size() - 1;
+        int bottom = matrix.size() - 1;
+        while (top <= bottom && left <= right) {
             for (int i = left; i <= right; i++) {
                 result.push_back(matrix[top][i]);
             }
