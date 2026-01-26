@@ -8,16 +8,11 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-/*
-
-*/
 class Solution {
-    /*here approach is distance between fast and slow pointer shpuld ne k fso
-     * when fast reach last then second slow is at k from last and we can delete
-     * it*/
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode* dummy = new ListNode(0, head);
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
         ListNode* slow = dummy;
         ListNode* fast = dummy;
         for (int i = 0; i <= n; i++) {
@@ -27,9 +22,9 @@ public:
             slow = slow->next;
             fast = fast->next;
         }
-        ListNode* delnode = slow->next;
+        ListNode* delNode = slow->next;
         slow->next = slow->next->next;
-        delete delnode;
+        delete delNode;
         return dummy->next;
     }
 };
