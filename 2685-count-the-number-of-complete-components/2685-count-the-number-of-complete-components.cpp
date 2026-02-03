@@ -1,35 +1,35 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& edges, vector<bool>& visited, int& nodes,
-             int& edge, int node) {
-        visited[node] = true;
+    void dfs(vector<vector<int>>& adjLs, vector<int>& visited, int& nodes,
+             int& edges, int i) {
+        visited[i] = 1;
         nodes++;
-        edge += edges[node].size();
-        for (auto& rei : edges[node]) {
-            if (!visited[rei]) {
-                dfs(edges, visited, nodes, edge, rei);
+        edges += adjLs[i].size();
+        for (int nei : adjLs[i]) {
+            if (!visited[nei]) {
+                dfs(adjLs, visited, nodes, edges, nei);
             }
         }
     }
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        vector<vector<int>> adj(n);
+        vector<vector<int>> adjLs(n);
+        vector<int> visited(n, 0);
+        int countComonents = 0;
         for (auto& e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
+            adjLs[e[0]].push_back(e[1]);
+            adjLs[e[1]].push_back(e[0]);
         }
-        vector<bool> visited(n, false);
-        int completeComponents = 0;
         for (int i = 0; i < n; i++) {
-            int counntNode = 0;
-            int countEdge = 0;
             if (!visited[i]) {
-                dfs(adj, visited, counntNode, countEdge, i);
-                countEdge /= 2;
-                if (countEdge == counntNode * (counntNode - 1) / 2) {
-                    completeComponents++;
+                int nodes = 0;
+                int edges = 0;
+                dfs(adjLs, visited, nodes, edges, i);
+                edges /= 2;
+                if (edges == nodes * (nodes - 1) / 2) {
+                    countComonents++;
                 }
             }
         }
-        return completeComponents;
+        return countComonents;
     }
 };
