@@ -1,9 +1,9 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int time = 0;
         int n = grid.size();
         int m = grid[0].size();
+        int time = 0;
         vector<vector<int>> visited(n, vector<int>(m, 0));
         queue<pair<int, int>> q;
         for (int i = 0; i < n; i++) {
@@ -16,37 +16,32 @@ public:
                 }
             }
         }
+
         while (!q.empty()) {
             int size = q.size();
-            bool rotted = false;
-
-            for (int k = 0; k < size; k++) {
-                int u = q.front().first;
-                int v = q.front().second;
+            bool rotten = false;
+            for (int i = 0; i < size; i++) {
+                int x = q.front().first;
+                int y = q.front().second;
                 q.pop();
-
                 int drow[] = {-1, 0, 1, 0};
                 int dcol[] = {0, -1, 0, 1};
-
                 for (int i = 0; i < 4; i++) {
-                    int nrow = u + drow[i];
-                    int ncol = v + dcol[i];
-
+                    int nrow = x + drow[i];
+                    int ncol = y + dcol[i];
                     if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
                         grid[nrow][ncol] == 1) {
-
                         grid[nrow][ncol] = 2;
                         visited[nrow][ncol] = 1;
                         q.push({nrow, ncol});
-                        rotted = true;
+                        rotten = true;
                     }
                 }
             }
-
-            if (rotted)
+            if (rotten) {
                 time++;
+            }
         }
-
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (grid[i][j] == 1)
