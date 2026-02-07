@@ -478,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/AdityyaX/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AdityyaX/LeetCodePractice/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AdityyaX/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AdityyaX/LeetCodePractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AdityyaX/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AdityyaX/LeetCodePractice/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AdityyaX/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AdityyaX/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AdityyaX/LeetCodePractice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -714,10 +716,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/AdityyaX/LeetCodePractice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AdityyaX/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/AdityyaX/LeetCodePractice/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AdityyaX/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AdityyaX/LeetCodePractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityyaX/LeetCodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdityyaX/LeetCodePractice/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/AdityyaX/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
