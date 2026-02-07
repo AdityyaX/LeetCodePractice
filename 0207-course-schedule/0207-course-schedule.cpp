@@ -1,32 +1,30 @@
 class Solution {
 public:
-    bool dfs(int i, vector<vector<int>>& adjLs, vector<int>& visited,
-             vector<int>& inStack) {
-        inStack[i] = 1;
+    bool dfs(vector<vector<int>>& adjLs, vector<int>& visited, int i) {
         visited[i] = 1;
-        for (int nei : adjLs[i]) {
-            if (!visited[nei]) {
-                if (dfs(nei, adjLs, visited, inStack))
+        for (auto nei : adjLs[i]) {
+            if (visited[nei] == 0) {
+                if (dfs(adjLs, visited, nei))
                     return true;
-            } else if (inStack[nei]) {
+            } else if (visited[nei] == 1) {
                 return true;
             }
         }
-        inStack[i] = 0;
+        visited[i] = 2;
         return false;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        int n = prerequisites.size();
+        vector<int> visited(numCourses, 0);
         vector<vector<int>> adjLs(numCourses);
-        for (auto& e : prerequisites) {
-            int course = e[0];
-            int prereq = e[1];
-            adjLs[prereq].push_back(course);
+        for (int i = 0; i < n; i++) {
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
+            adjLs[v].push_back(u);
         }
-        vector<int> inStack(numCourses);
-        vector<int> visited(numCourses);
         for (int i = 0; i < numCourses; i++) {
             if (!visited[i]) {
-                if (dfs(i, adjLs, visited, inStack)) {
+                if (dfs(adjLs, visited, i)) {
                     return false;
                 }
             }
