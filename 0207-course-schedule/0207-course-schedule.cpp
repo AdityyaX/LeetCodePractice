@@ -1,34 +1,32 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>>& adjLs, vector<int>& visited, int i) {
-        visited[i] = 1;
-        for (auto nei : adjLs[i]) {
-            if (visited[nei] == 0) {
-                if (dfs(adjLs, visited, nei))
-                    return true;
-            } else if (visited[nei] == 1) {
-                return true;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<int> indegree(numCourses, 0);
+        vector<vector<int>> adj(numCourses);
+        int count = 0;
+        for (int i = 0; i < prerequisites.size(); i++) {
+            int x = prerequisites[i][0];
+            int y = prerequisites[i][1];
+            indegree[x]++;
+            adj[y].push_back(x);
+        }
+        queue<int> q;
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) {
+                q.push(i);
             }
         }
-        visited[i] = 2;
-        return false;
-    }
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int n = prerequisites.size();
-        vector<int> visited(numCourses, 0);
-        vector<vector<int>> adjLs(numCourses);
-        for (int i = 0; i < n; i++) {
-            int u = prerequisites[i][0];
-            int v = prerequisites[i][1];
-            adjLs[v].push_back(u);
-        }
-        for (int i = 0; i < numCourses; i++) {
-            if (!visited[i]) {
-                if (dfs(adjLs, visited, i)) {
-                    return false;
+        while (!q.empty()) {
+
+            int node = q.front();
+            q.pop();
+            count++;
+            for (int x : adj[node]) {
+                if (--indegree[x] == 0) {
+                    q.push(x);
                 }
             }
         }
-        return true;
+        return count == numCourses;
     }
 };
