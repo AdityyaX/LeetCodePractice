@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/AdityyaX/LeetCodePractice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AdityyaX/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AdityyaX/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AdityyaX/LeetCodePractice/tree/master/0091-decode-ways) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AdityyaX/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AdityyaX/LeetCodePractice/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/AdityyaX/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AdityyaX/LeetCodePractice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AdityyaX/LeetCodePractice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AdityyaX/LeetCodePractice/tree/master/0069-sqrtx) |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AdityyaX/LeetCodePractice/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Monotonic Stack
 |  |
