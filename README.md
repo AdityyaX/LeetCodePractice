@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AdityyaX/LeetCodePractice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0078-subsets) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AdityyaX/LeetCodePractice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AdityyaX/LeetCodePractice/tree/master/0091-decode-ways) |
@@ -611,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AdityyaX/LeetCodePractice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
