@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/AdityyaX/LeetCodePractice/tree/master/0371-sum-of-two-integers) |
 | [0470-implement-rand10-using-rand7](https://github.com/AdityyaX/LeetCodePractice/tree/master/0470-implement-rand10-using-rand7) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AdityyaX/LeetCodePractice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/AdityyaX/LeetCodePractice/tree/master/1390-four-divisors) |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/AdityyaX/LeetCodePractice/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/AdityyaX/LeetCodePractice/tree/master/0526-beautiful-arrangement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0784-letter-case-permutation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0784-letter-case-permutation) |
 ## Trie
 |  |
