@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/1975-maximum-matrix-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityyaX/LeetCodePractice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AdityyaX/LeetCodePractice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AdityyaX/LeetCodePractice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AdityyaX/LeetCodePractice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Sorting
 |  |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-two-city-scheduling](https://github.com/AdityyaX/LeetCodePractice/tree/master/1029-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
 | [1288-remove-covered-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/1288-remove-covered-intervals) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityyaX/LeetCodePractice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityyaX/LeetCodePractice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityyaX/LeetCodePractice/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0981-time-based-key-value-store](https://github.com/AdityyaX/LeetCodePractice/tree/master/0981-time-based-key-value-store) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AdityyaX/LeetCodePractice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3454-separate-squares-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
 |  |
@@ -295,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/AdityyaX/LeetCodePractice/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/AdityyaX/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -571,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/AdityyaX/LeetCodePractice/tree/master/0526-beautiful-arrangement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0784-letter-case-permutation](https://github.com/AdityyaX/LeetCodePractice/tree/master/0784-letter-case-permutation) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Trie
 |  |
 | ------- |
@@ -693,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/AdityyaX/LeetCodePractice/tree/master/0526-beautiful-arrangement) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -746,4 +753,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/AdityyaX/LeetCodePractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AdityyaX/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
