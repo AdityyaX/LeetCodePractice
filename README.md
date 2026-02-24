@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/AdityyaX/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AdityyaX/LeetCodePractice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AdityyaX/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AdityyaX/LeetCodePractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AdityyaX/LeetCodePractice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AdityyaX/LeetCodePractice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
