@@ -10,9 +10,8 @@ public:
             mpp[t[i]]--;
         }
         for (auto mp : mpp) {
-            if (mp.second != 0) {
+            if (mp.second != 0)
                 return false;
-            }
         }
         return true;
     }
