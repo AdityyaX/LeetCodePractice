@@ -1,21 +1,24 @@
 class Solution {
 public:
-    /*
-    what each index value of prefix and postfix array represent here is product
-    if number before and after them respectively*/
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
         vector<int> prefix(n, 1);
-        vector<int> postfix(n, 1);
+        vector<int> suffix(n, 1);
         vector<int> result(n, 1);
         for (int i = 1; i < n; i++) {
-            prefix[i] = nums[i - 1] * prefix[i - 1];
+            prefix[i] = prefix[i - 1] * nums[i - 1];
+            cout << prefix[i] << endl;
         }
         for (int i = n - 2; i >= 0; i--) {
-            postfix[i] = nums[i + 1] * postfix[i + 1];
+            suffix[i] = suffix[i + 1] * nums[i + 1];
+            // cout << suffix[i] << endl;
         }
         for (int i = 0; i < n; i++) {
-            result[i] = postfix[i] * prefix[i];
+            result[i] = suffix[i] * prefix[i];
+
+            // // 1 2 6 24
+            // // 24 24 12 4
+            // 24 12 8 6
         }
         return result;
     }
