@@ -3,11 +3,11 @@ public:
     int lengthOfLongestSubstring(string s) {
         int i = 0;
         int maxlen = 0;
-        vector<int> freq(128, 0);
+        vector<int> stringMap(128, 0);
         for (int j = 0; j < s.size(); j++) {
-            freq[s[j]]++;
-            while (freq[s[j]] > 1) {
-                freq[s[i]]--;
+            stringMap[s[j]]++;
+            while (stringMap[s[j]] > 1) {
+                stringMap[s[i]]--;
                 i++;
             }
             maxlen = max(maxlen, j - i + 1);
