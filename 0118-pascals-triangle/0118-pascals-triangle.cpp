@@ -5,12 +5,10 @@ public:
 
         for (int i = 0; i < numRows; i++) {
             vector<int> row(i + 1, 1);
-            result.push_back(row);
-        }
-        for (int i = 2; i < numRows; i++) {
             for (int j = 1; j < i; j++) {
-                result[i][j] = result[i - 1][j - 1] + result[i - 1][j];
+                row[j] = result[i - 1][j - 1] + result[i - 1][j];
             }
+            result.push_back(row);
         }
         return result;
     }
