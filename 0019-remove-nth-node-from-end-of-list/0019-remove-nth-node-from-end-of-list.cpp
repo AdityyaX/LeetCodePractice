@@ -19,8 +19,8 @@ public:
             fast = fast->next;
         }
         while (fast != NULL) {
-            slow = slow->next;
             fast = fast->next;
+            slow = slow->next;
         }
         ListNode* delNode = slow->next;
         slow->next = slow->next->next;
