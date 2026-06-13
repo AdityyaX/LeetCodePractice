@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AdityyaX/LeetCodePractice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AdityyaX/LeetCodePractice/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/AdityyaX/LeetCodePractice/tree/master/0217-contains-duplicate) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AdityyaX/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AdityyaX/LeetCodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityyaX/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityyaX/LeetCodePractice/tree/master/0300-longest-increasing-subsequence) |
@@ -465,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityyaX/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityyaX/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
