@@ -1,24 +1,21 @@
 class Solution {
 public:
-    /*
-    here on approach can be using hasmap*/
     vector<int> majorityElement(vector<int>& nums) {
         int n = nums.size();
-        unordered_set<int> ans;
-        vector<int> result;
+        unordered_set<int> st;
+        vector<int> ans;
         unordered_map<int, int> mpp;
-        for (int num : nums) {
-            mpp[num]++;
+        for (int i = 0; i < nums.size(); i++) {
+            mpp[nums[i]]++;
         }
-        for (int num : nums) {
-            if (mpp[num] > n / 3) {
-                ans.insert(num);
+        for (auto mp : mpp) {
+            if (mp.second > n / 3) {
+                st.insert(mp.first);
             }
         }
-        for (int num : ans) {
-            result.push_back(num);
+        for (int s : st) {
+            ans.push_back(s);
         }
-
-        return result;
+        return ans;
     }
 };
