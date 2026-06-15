@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/AdityyaX/LeetCodePractice/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/AdityyaX/LeetCodePractice/tree/master/3606-coupon-code-validator) |
+| [3838-weighted-word-mapping](https://github.com/AdityyaX/LeetCodePractice/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityyaX/LeetCodePractice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3606-coupon-code-validator](https://github.com/AdityyaX/LeetCodePractice/tree/master/3606-coupon-code-validator) |
+| [3838-weighted-word-mapping](https://github.com/AdityyaX/LeetCodePractice/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/AdityyaX/LeetCodePractice/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
+| [3838-weighted-word-mapping](https://github.com/AdityyaX/LeetCodePractice/tree/master/3838-weighted-word-mapping) |
 ## Hash Function
 |  |
 | ------- |
