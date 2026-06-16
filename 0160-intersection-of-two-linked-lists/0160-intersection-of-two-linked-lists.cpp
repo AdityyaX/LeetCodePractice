@@ -18,6 +18,7 @@ public:
             if (st.find(headB) != st.end()) {
                 return headB;
             }
+            st.insert(headB);
             headB = headB->next;
         }
         return NULL;
