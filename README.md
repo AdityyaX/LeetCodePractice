@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityyaX/LeetCodePractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AdityyaX/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/AdityyaX/LeetCodePractice/tree/master/0473-matchsticks-to-square) |
+| [0485-max-consecutive-ones](https://github.com/AdityyaX/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
