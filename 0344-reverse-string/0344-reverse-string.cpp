@@ -1,16 +1,14 @@
 class Solution {
 public:
-    /*
-    there can be multiple approach for this stack ,array,builtin
-    but best approach will be this O(N) time and O(1) space complexiety,*/
     void reverseString(vector<char>& s) {
-        int j = s.size() - 1;
         int i = 0;
-        while (i <= j) {
-            swap(s[i], s[j]);
+        int j = s.size() - 1;
+        while (i < j) {
+            char c = s[i];
+            s[i] = s[j];
+            s[j] = c;
             i++;
             j--;
         }
-        return;
     }
 };
