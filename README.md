@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityyaX/LeetCodePractice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/AdityyaX/LeetCodePractice/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AdityyaX/LeetCodePractice/tree/master/2965-find-missing-and-repeated-values) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3606-coupon-code-validator](https://github.com/AdityyaX/LeetCodePractice/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3612-process-string-with-special-operations-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/AdityyaX/LeetCodePractice/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
