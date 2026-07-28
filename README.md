@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityyaX/LeetCodePractice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AdityyaX/LeetCodePractice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AdityyaX/LeetCodePractice/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/AdityyaX/LeetCodePractice/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdityyaX/LeetCodePractice/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/AdityyaX/LeetCodePractice/tree/master/3606-coupon-code-validator) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/AdityyaX/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityyaX/LeetCodePractice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/AdityyaX/LeetCodePractice/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -848,4 +850,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
