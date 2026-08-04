@@ -870,4 +870,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
