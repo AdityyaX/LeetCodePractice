@@ -8,7 +8,6 @@ var merge = function (intervals) {
 
     const merged = [intervals[0]];
 
-    intervals.sort((a, b) => a-b)
     for (let i = 1; i < intervals.length; i++) {
         const current = intervals[i];
         const lastMerged = merged[merged.length - 1];
