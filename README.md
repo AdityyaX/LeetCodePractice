@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/AdityyaX/LeetCodePractice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AdityyaX/LeetCodePractice/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/AdityyaX/LeetCodePractice/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/AdityyaX/LeetCodePractice/tree/master/0292-nim-game) |
@@ -661,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AdityyaX/LeetCodePractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AdityyaX/LeetCodePractice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3612-process-string-with-special-operations-i) |
@@ -874,4 +876,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AdityyaX/LeetCodePractice/tree/master/0056-merge-intervals) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AdityyaX/LeetCodePractice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
