@@ -895,4 +895,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityyaX/LeetCodePractice/tree/master/0020-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AdityyaX/LeetCodePractice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
