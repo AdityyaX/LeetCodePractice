@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/AdityyaX/LeetCodePractice/tree/master/1925-count-square-sum-triples) |
 | [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/AdityyaX/LeetCodePractice/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdityyaX/LeetCodePractice/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AdityyaX/LeetCodePractice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -749,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/AdityyaX/LeetCodePractice/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AdityyaX/LeetCodePractice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Brainteaser
 |  |
 | ------- |
