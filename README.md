@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/AdityyaX/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/AdityyaX/LeetCodePractice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/AdityyaX/LeetCodePractice/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/AdityyaX/LeetCodePractice/tree/master/0526-beautiful-arrangement) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityyaX/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityyaX/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AdityyaX/LeetCodePractice/tree/master/0621-task-scheduler) |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/AdityyaX/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/AdityyaX/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AdityyaX/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdityyaX/LeetCodePractice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
@@ -757,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityyaX/LeetCodePractice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/AdityyaX/LeetCodePractice/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AdityyaX/LeetCodePractice/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
