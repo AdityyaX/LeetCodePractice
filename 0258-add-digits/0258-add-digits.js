@@ -2,17 +2,17 @@
  * @param {number} num
  * @return {number}
  */
-function sumOfDigit(value) {
-    let sum = 0
-    while (value) {
-        sum += value % 10
-        value = Math.floor(value / 10)
+function findsSum(num) {
+    let result = 0
+    while (num) {
+        result = result + num % 10
+        num = Math.floor(num / 10)
     }
-    return sum
+    return result
 }
 var addDigits = function (num) {
     while (num >= 10) {
-        num = sumOfDigit(num)
+        num = findsSum(num)
     }
     return num
 
