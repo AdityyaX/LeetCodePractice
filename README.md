@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/AdityyaX/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/AdityyaX/LeetCodePractice/tree/master/1975-maximum-matrix-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AdityyaX/LeetCodePractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2364-count-number-of-bad-pairs](https://github.com/AdityyaX/LeetCodePractice/tree/master/2364-count-number-of-bad-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/AdityyaX/LeetCodePractice/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1169-invalid-transactions](https://github.com/AdityyaX/LeetCodePractice/tree/master/1169-invalid-transactions) |
 | [1189-maximum-number-of-balloons](https://github.com/AdityyaX/LeetCodePractice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/AdityyaX/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AdityyaX/LeetCodePractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityyaX/LeetCodePractice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -838,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AdityyaX/LeetCodePractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3454-separate-squares-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/3454-separate-squares-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Line Sweep
@@ -875,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AdityyaX/LeetCodePractice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AdityyaX/LeetCodePractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Database
 |  |
 | ------- |
