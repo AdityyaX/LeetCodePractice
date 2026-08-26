@@ -530,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/AdityyaX/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityyaX/LeetCodePractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AdityyaX/LeetCodePractice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityyaX/LeetCodePractice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -547,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AdityyaX/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
 | [2653-sliding-subarray-beauty](https://github.com/AdityyaX/LeetCodePractice/tree/master/2653-sliding-subarray-beauty) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityyaX/LeetCodePractice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityyaX/LeetCodePractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AdityyaX/LeetCodePractice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Tree
